@@ -13,14 +13,14 @@ Game Spaceshooter dan PingPong
 ## Installasi
 
 Anda dapat mendownload gamenya di:
-* [Asset1](http://gg.gg/drivemulmed) - Game & Asset tanpa venv
-* [Asset2](http://gg.gg/drivemulmed) - Game & Asset dengan venv
+* [Asset1](https://drive.google.com/drive/folders/1F8hCn9B9WEwbEwLVw04jj-cEbFh2NKiX?usp=sharing) - Game & Asset tanpa venv
+* [Asset2](https://drive.google.com/drive/folders/1Zh_oRv9WpYlj34nNTgbrDlZD-RUFELP7?usp=sharing) - Game & Asset dengan venv
 
 ### Tampilan
 
  ![MainMenu](https://github.com/siputterbang/snail/blob/master/MainMenu.png)
 
- ![MainMenu](https://github.com/siputterbang/snail/blob/master/SpaceShooter.png)
+ ![SpaceShooter](https://github.com/siputterbang/snail/blob/master/SpaceShooter.png)
 
  ![PingPong](https://github.com/siputterbang/snail/blob/master/PingPong.png)]
 
