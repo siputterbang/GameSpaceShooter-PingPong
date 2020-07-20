@@ -4,7 +4,6 @@ Game Spaceshooter dan PingPong
 
 ## Modul yang dibutuhkan
 ```
-* Python 3.xx
 * Pygame
 * Random
 * Tutle
